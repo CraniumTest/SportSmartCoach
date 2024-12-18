@@ -1,0 +1,4 @@
+Flask==2.x.x
+SQLAlchemy==1.x.x
+openai==0.x.x
+requests==2.x.x
